@@ -1,1 +1,2 @@
 # Road-Safety-Accidents-Casualities-and-Vehicles2019
+In the UK, annual road casualty statistics are published twice each year (transport, 2022) and published for public consumption. In this report I will be discussing my analysis drawn from the accidents and its associated data files released by the UK government for the year 2019. This report is an extract of the analysis carried out in Python and in the end I will make predictions and conclude with recommendations.
